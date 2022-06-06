@@ -1,0 +1,4 @@
+python = 3.5
+tensorflow = 1.15.4
+numpy = 1.18.5
+matplotlib = 3.0.3
